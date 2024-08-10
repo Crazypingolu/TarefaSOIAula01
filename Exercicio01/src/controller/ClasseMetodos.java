@@ -12,7 +12,7 @@ public class ClasseMetodos {
         // Processamento de dados:
         tempTotal = (tempFinal - tempIni) / (Math.pow(10, 9));
         // Saída de dados:
-        System.out.println(" ");
+        System.out.println(" "); // esse print é só pra não printar o tempo no console junto com os codigos de local.
         System.out.println(tempTotal);
     } // Fim - percorreVet 
 }
