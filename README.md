@@ -13,7 +13,9 @@ com métodos para operações e uma classe de visão que instancie a classe de c
 a comunicação, A resposta da tarefa deve ser o print do console com as quantidades.
 
 Texto 1: abóbora;abobrinha;alcachofra;aspargos;batata-doce;berinjela;beterraba
+
 Texto 2: abacate;ameixa;amora;banana;cajá;figo;maçã;melancia;uva;seriguela;manga
+
 Texto 3: acelga;alface;alho-poró;coentro;endívia;escarola;repolho;rúcula;agrião
 
 3. Fazer uma aplicação Java em Eclipse, que permita ao usuário, por Scanner ou JOptionPane,
@@ -25,4 +27,5 @@ indicação de que são pares e múltiplos de 10. A resposta deve ser um print d
 um vetor de entrada de 8 posições.
 
 Programador: LucasP, Crazypingolu
+
 ultima alteração: 10/08/24
