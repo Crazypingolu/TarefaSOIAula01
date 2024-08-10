@@ -1,5 +1,9 @@
 package controller;
 public class ClasseMetodos {
+    // Criar Contrutor:
+    public ClasseMetodos(){
+        super();
+    }
     public void percorreVet(int[] vetor){
         // definir variáveis:
          double tempIni, tempFinal, tempTotal;
