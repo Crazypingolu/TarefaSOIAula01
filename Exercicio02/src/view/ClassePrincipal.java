@@ -27,7 +27,7 @@ public class ClassePrincipal {
             // Condição de termino de programa:
             if (cont == 2){
                 break;
-            }
+            } 
         } 
     }
 }
